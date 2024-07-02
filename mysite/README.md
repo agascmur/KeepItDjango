@@ -13,7 +13,7 @@ python manage.py startapp polls
 # Run
 python manage.py runserver 127.0.0.1:8080
 
-# Install postgreSQL 16.3 (pgAdmin 4)
+# NO - Install postgreSQL 16.3 (pgAdmin 4)
 pip install psycopg2-binary
 pip install psycopg2
 
