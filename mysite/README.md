@@ -1,6 +1,8 @@
 # Crea venv
 python -m venv venv
 .\venv\Scripts\activate
+## En bash:
+source ./venv/bin/activate
 
 # Init projecte
 pip install django
